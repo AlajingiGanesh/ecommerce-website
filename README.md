@@ -1,6 +1,9 @@
 # ecommerce-website
 A responsive frontend-only e-commerce website built with HTML, CSS, and JavaScript — featuring dynamic cart, category browsing, and search functionality.
+(## 🌍 Live Demo
 
+🔗 [https://alajingiganesh.github.io/ecommerce-website/](https://alajingiganesh.github.io/ecommerce-website/)
+)
 
 # 🛒 E-Commerce Website (Frontend Only)
 
